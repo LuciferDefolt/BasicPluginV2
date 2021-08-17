@@ -1,0 +1,11 @@
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\bin\Debug\BasicPluginV2.dll
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\bin\Debug\BasicPluginV2.pdb
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\obj\Debug\BasicPluginV2.csprojAssemblyReference.cache
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\obj\Debug\BasicPluginV2.csproj.CoreCompileInputs.cache
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\obj\Debug\BasicPluginV2.csproj.CopyComplete
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\obj\Debug\BasicPluginV2.dll
+C:\Users\Devold\source\repos\BasicPluginV2\BasicPluginV2\obj\Debug\BasicPluginV2.pdb
